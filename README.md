@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a client's portfolio, my own portfolio and widening my Frontend Developer skills.<br><br>I'm looking for help with landing a permanent job as a Frontend Developer. The market isn't great right now so any tips, advice or referrals would be hugely appreciated.<br><br>I'm currently learning Vue.js to add to my skills I've already built with React.<br><br>Ask me about Harry Potter or Marvel, I'll talk to you all day long!<br><br>A fun fact about me - I'm currently training for Ironman Portugal-Cascais 2024, and it turns out 140.6 miles is quite a long way...
+I'm currently working widening my Full Stack Developer skills. I've recently completed a client's portfolio and updated my own - check them out below!<br><br>I'm looking for help with landing a permanent job as a Developer. The market isn't great right now so any tips, advice or referrals would be hugely appreciated.<br><br>I'm currently dreaming up my next project to add to my skills I've already built across the PERN stack.<br><br>Ask me about Harry Potter or Marvel, I'll talk to you all day long!<br><br>A fun fact about me - I'm currently training for Ironman Portugal-Cascais 2024, and it turns out 140.6 miles is quite a long way...
 
 
 ## 🌐 Socials:
